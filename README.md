@@ -9,6 +9,7 @@ Group Project for Advanced Data Analysis Class at DePaul. This repository contai
    - columns denoted with _y represent the opponent's trailing stats
    - "MarginOfVictory" will be the dependent variable for the analysis yet to come
    - "teamDayOff" is not a trailing average as it is the number of days a team has had off in between games and something that is predetermined before the game starts so we can use to predict the dependent variable
+  - Also note that the first 6 games for each team will be denoted as NA as a minimum window of 6 was set to calculate the trailing average data
 - NBA_BoxScore_RollingAverages.ipynb is the script that transforms the original data into the modified trailing average data
 
 
