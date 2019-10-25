@@ -14,5 +14,5 @@ Group Project for Advanced Data Analysis Class at DePaul. This repository contai
 - NBA_MoV_HomeAwayTrailing.ipynb is the script that attempts to predict the actual margin of victory using different trailing amounts of previous home or away games
 - NBA_MoV_Trailing6_Experimentation.ipynb is the script that attempts to predict the actual margin of victory using different trailing amounts, regardless if they are hoome or away
 - NBA_MarginOfVictory.R is where I did factor and PCA analysis of variables to help me understand which variables I wanted to use
-
+- NBA_MoV_HomeAwayTrailing-Logistic.ipynb is where I just tried to predict straight up win/loss instead of margin of victory (did a lot better than trying to predict margin of victory as you could imagine!)
    
